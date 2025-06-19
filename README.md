@@ -1,8 +1,5 @@
-Here’s a professional and polished `README.md` for your **EduFlow AI** project:
 
----
 
-````markdown
 # 📚 EduFlow AI+
 
 **AI-powered learning assistant** for students and educators — generate clean notes and MCQs from PDFs or plain text.
