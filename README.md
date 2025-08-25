@@ -1,6 +1,6 @@
 
 
-# 📚 EduFlow AI+
+#  EduFlow AI+
 
 **AI-powered learning assistant** for students and educators — generate clean notes and MCQs from PDFs or plain text.
 
@@ -8,18 +8,18 @@ Built with **Next.js App Router**, **Tailwind CSS**, and **OpenRouter AI (DeepSe
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📄 Upload PDFs or paste plain text
-- 📝 AI-generated clean and concise notes
-- ❓ Multiple Choice Questions (MCQs) with answer selection
-- ✅ Answer correctness feedback
-- 📤 Export notes and questions to PDF
-- 🔐 User authentication (via NextAuth or Clerk – coming soon)
+-  Upload PDFs or paste plain text
+-  AI-generated clean and concise notes
+-  Multiple Choice Questions (MCQs) with answer selection
+-  Answer correctness feedback
+-  Export notes and questions to PDF
+-  User authentication (via NextAuth or Clerk – coming soon)
 
 ---
 
-## 🧠 Powered By
+##  Powered By
 
 - [Next.js (App Router)](https://nextjs.org/docs/app)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -29,7 +29,7 @@ Built with **Next.js App Router**, **Tailwind CSS**, and **OpenRouter AI (DeepSe
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 
@@ -88,10 +88,10 @@ Visit `http://localhost:3000` to start using EduFlow AI+.
 
 ## 📦 Upcoming Features
 
-* 🔐 Authentication with NextAuth or Clerk
-* 💾 Save history to user dashboard
-* 📊 Quiz scoring and analytics
-* 🌍 Multi-language support
+*  Authentication with NextAuth or Clerk
+*  Save history to user dashboard
+*  Quiz scoring and analytics
+*  Multi-language support
 
 ---
 
